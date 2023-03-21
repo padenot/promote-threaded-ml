@@ -1,0 +1,9 @@
+[package]
+name = "promote-threaded-ml"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+audio_thread_priority = { path = "audio_thread_priority" }
